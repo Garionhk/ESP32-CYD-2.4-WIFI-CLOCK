@@ -1,6 +1,6 @@
 # ESP32 WiFi Clock (CYD)
 
-A beautiful and functional WiFi-connected clock designed for the **"Cheap Yellow Display" (CYD)** - ESP32-2432S028R. This project displays the current time and date with a sleek digital interface.
+A beautiful and functional WiFi-connected clock designed for the **"Cheap Yellow Display" (CYD)** - ESP32-2432S024 . This project displays the current time and date with a sleek digital interface.
 
 ## 🚀 Features
 - **WiFi Synchronized**: Automatically sets and maintains time via NTP.
@@ -9,7 +9,7 @@ A beautiful and functional WiFi-connected clock designed for the **"Cheap Yellow
 - **Custom Banner**: Displays "Garion Photo Tech" banner at the top.
 
 ## 🛠 Hardware Required
-- **ESP32-2432S028R**: Also known as the "Cheap Yellow Display" (2.8" or 2.4" TFT with Touch).
+- **ESP32-2432S024**: Also known as the "Cheap Yellow Display" (2.8" or 2.4" TFT with Touch).
 
 ## 📚 Libraries
 This project requires several libraries for the display, JSON parsing, and time management. It is highly recommended to use the **attached libraries** provided in the `libraries/` folder to ensure compatibility.
