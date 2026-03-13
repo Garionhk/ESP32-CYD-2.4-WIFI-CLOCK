@@ -2,6 +2,10 @@
 
 A beautiful and functional WiFi-connected clock designed for the **"Cheap Yellow Display" (CYD)** - ESP32-2432S024 . This project displays the current time and date with a sleek digital interface.
 
+![Project Preview](https://github.com/Garionhk/ESP32-CYD-2.4-WIFI-CLOCK/blob/main/20260307_173157_clean.jpg) 
+*(Example CYD Hardware)*
+
+
 ## 🚀 Features
 - **WiFi Synchronized**: Automatically sets and maintains time via NTP.
 - **Automatic DST**: Handles Daylight Saving Time changes automatically.
